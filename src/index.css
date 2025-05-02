@@ -107,6 +107,10 @@ input {
   color: black;
 }
 
+.bookCard p {
+  font-style: italic;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
